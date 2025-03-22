@@ -1,0 +1,54 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for header with class .main-header */
+.main-header {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling for paragraph with class .intro-text */
+.intro-text {
+    font-size: 18px;
+    font-style: italic;
+}
+
+/* Styling for content section */
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid #ddd; /* Adding border to content section */
+    border-radius: 8px;
+}
+
+/* Styling the unordered list with class .feature-list */
+.feature-list {
+    list-style-type: square;
+    margin-left: 30px;
+}
+
+/* Styling for image with class .styled-image */
+.styled-image {
+    width: 100%;
+    max-width: 400px; /* Maximum width of the image */
+    border: 5px solid #4CAF50; /* Green border around the image */
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+/* Styling for footer note */
+.footer-note {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 40px;
+    color: #777;
+}
